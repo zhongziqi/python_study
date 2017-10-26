@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 def fib(n):
-    a,b = 1,1
-    for i in range(n-1):
+    a,b = 0,1
+    for i in range(n):
         a,b = b,a+b
         # 上面这种操作被叫为赋值运算，先计算等于好右边的然后再相等
     return a
