@@ -1,5 +1,5 @@
-<!-- python连接mysql -->
-<!-- 材料：
+python连接mysql
+材料：
           python 2.7.14
           MySQLdb
           windows 8.1 64bit
@@ -11,4 +11,3 @@
           import MySQLdb
 
           如果运行没有报ImportError:no module named MySQLdb 则证明安装成功
- -->
